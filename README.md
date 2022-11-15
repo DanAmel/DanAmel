@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [ Quasar Generator Report](https://github.com/DanAmel/report-generator)  
   
 
-- 🌱 I’m currently learning Kubernetes  
+- 🌱 I’m currently learning Devops tools like Kubernetes, Terraform and Ansible  
   
 
 - ❓ Ask me about anything related to devops  and related technologies  
